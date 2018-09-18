@@ -1,0 +1,69 @@
+body{
+	background-color:lightyellow;
+}
+img{
+	width: 100%;
+	height: 320px;
+}
+.tabChapter{
+	word-spacing: 156px;
+}
+.adChapter{
+	text-align: center;
+	margin-left: 1200px;
+	background-color:none;
+    color:red;
+    font-size:0.9em;
+    margin-bottom:0px;
+    text-align: left;
+}
+.btnn{
+	display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+footer{
+	background-color: gray;
+	text-align: center;
+}
+.dec{
+	padding-left: 15px;
+}
+.jumbotron{
+	text-align: center;
+}
+button {
+	background-color: lightblue;
+}
+.updateChapter{
+	text-align: center;
+	font-size: 42px;
+	color: blue;
+}
+i{
+	margin-left: 590px;
+
+}
+.signal{
+	margin-left: -930px;
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
+	text-decoration: underline;
+}
+.notRead{
+	margin-left: -938px;
+	text-align: center;
+	text-transform: uppercase;
+	color: indigo;
+	text-decoration: underline;
+}
